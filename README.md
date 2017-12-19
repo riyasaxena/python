@@ -13,5 +13,6 @@ numbers (different types), sequence of characters (string) and there are more
 ## Loops
 for < avariableName > in range (< startNumber >, < endNumber >):
     do something
-
+# learnt nested loops
+refer to playing with loops to see it in action.
 
