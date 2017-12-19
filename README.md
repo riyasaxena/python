@@ -6,3 +6,9 @@
 
 and I have created my first file which hello.py
 
+
+## Data types in python
+numbers (different types), sequence of characters (string) and there are more
+
+
+
