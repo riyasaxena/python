@@ -1,8 +1,8 @@
-# Write a program to print times table of 2
+# Write a program to print (times table of 2
 
-print "2 * 1 = 2"
-print "2 * 2 = 4"
-print "2 * 3 = 6"
+print ("2 * 1 = 2")
+print ("2 * 2 = 4")
+print ("2 * 3 = 6")
 
 
 # its too boring and difficult to change... whats the point of using a computer
@@ -14,9 +14,9 @@ print "2 * 3 = 6"
 
 # we want to use the calculator power of computer
 
-print "2 * 1 = ", 2*1
-print "2 * 2 = ", 2*2
-print "2 * 3 = ", 2*3
+print ("2 * 1 = ", 2*1)
+print ("2 * 2 = ", 2*2)
+print ("2 * 3 = ", 2*3)
 
 # ahhh now the problem is.. its too lengthy
 
@@ -24,19 +24,19 @@ print "2 * 3 = ", 2*3
 
 # here comes the for loop
 for anumber in range (1, 10):
-    # print 2 * anumber
-    print "2 * ", anumber, " times = ", 2 * anumber
+    # print (2 * anumber)
+    print ("2 * ", anumber, " times = ", 2 * anumber)
 
 
 # this is cool
 
 # what if I want to change the number... rather provide a number
 
-# print "For which number you want to print a table "
+# print ("For which number you want to print (a table "
 
 # inputNumber = input()
 
 inputNumber = input("For which number you want to print a table : ")
 
 for loopdaloop in range (1, 11) :
-    print inputNumber,"*",loopdaloop, "times =" ,inputNumber * loopdaloop
+    print (inputNumber,"*",loopdaloop, "times =" ,inputNumber * loopdaloop)
